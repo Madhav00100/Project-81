@@ -1,0 +1,10 @@
+body{
+    background-image: url('Background\ Picture.jpg');
+    background-position: center;
+}
+#Logo{
+    background-color: white;
+    border-style: groove;
+    border-width: 10px;
+    margin-top: 70px;
+}
